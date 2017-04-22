@@ -11,7 +11,7 @@ Single File Promenade.
 Wrong Way Promenade.
 Star Promenade.
 Allemande Left.
-Arm Turns.
+Arm Turn fraction.
 Right and Left Grand Family.
 Right and Left Grand.
 Weave the Ring.
@@ -23,7 +23,6 @@ Half Sashay.
 Rollaway.
 Ladies In.
 Men Sashay.
-Turn Back Family.
 U-Turn Back.
 Backtrack.
 Separate around 1.
@@ -67,7 +66,6 @@ Left Square Thru 3.
 Left Square Thru 4.
 Circle to a Line.
 Dive Thru.
-
 Wheel Around.
 Reverse Wheel Around.
 Allemande Thar.
@@ -108,7 +106,6 @@ Single File Circulate.
 Split Circulate.
 Box Circulate.
 Ferris Wheel.
-
 Cloverleaf.
 Turn Thru.
 Eight Chain Thru.
@@ -134,7 +131,6 @@ Tag the Line Right.
 Half Tag.
 Scoot Back.
 Recycle.
-
 3/4 Tag.
 Acey Deucey.
 All Eight Spin The Top.
@@ -158,15 +154,14 @@ Peel Off.
 Peel The Top.
 Ping Pong Circulate.
 Relay The Deucey.
-Roll.
+anything and Roll.
 Single Circle to a Wave.
 Spin Chain and Exchange The Gears.
 Spin Chain The Gears.
-Spread.
+anything and Spread.
 Teacup Chain.
 Track 2.
 Trade The Wave.
-
 1/4 In.
 1/4 Out.
 1/4 Top.
@@ -176,21 +171,21 @@ Trade The Wave.
 3/4 Thru.
 6 By 2 Acey Deucey.
 anything and Cross.
-Any Hand and.
-As Couples and.
+Any Hand anything.
+As Couples anything.
 Beau.
 Belle.
 Brace Thru.
 Cast a Shadow.
 Chain Reaction.
-Clover and.
-Cross Clover and.
+Clover and anything.
+Cross Clover and anything.
 Crossover Circulate.
 Cross Trail Thru.
 Cycle and Wheel.
 Double Star Thru.
 Ends Bend.
-Explode and.
+Explode and anything.
 Explode The Line.
 Grand 1/4 Thru.
 Grand 3/4 Thru.
@@ -219,9 +214,8 @@ Triple Star Thru.
 Triple Trade.
 Turn and Deal.
 Wheel Thru.
-
-All 4 Couples Concept.
-All 8 Concept.
+All 4 Couples anything.
+All 8 anything.
 Checkmate The Column.
 Cut the Hourglass.
 Flip The Hourglass.
@@ -269,9 +263,9 @@ To A Wave.
 Ah So.
 All 8 Recycle.
 Alter The Wave.
-Block Formation.
+In Your Block anything.
 Box Recycle.
-Butterfly Formation.
+Butterfly anything.
 Cast Back.
 Cross Cast Back.
 Chain Reaction.
@@ -286,6 +280,9 @@ Circle By 1/2 By 3/4.
 Circle By 3/4 By 1/4.
 Circle By 3/4 By 1/2.
 Circle By 3/4 By 3/4.
+Circle By 1/4 By anything.
+Circle By 1/2 By anything.
+Circle By 3/4 By anything.
 Concentric.
 Counter Rotate 1/4.
 Counter Rotate 3/4.
@@ -303,24 +300,24 @@ Cut the galaxy.
 Flip The Galaxy.
 Dixie Diamond.
 Dixie Sashay.
-Finish and.
+Finish anything.
 Flip The Line.
 Follow Thru.
 Galaxy Circulate.
 Ignore.
-Interlocked Diamond Formation.
-Interrupt .
+Interlocked Diamond anything.
+Interrupt.
 Jaywalk.
 Linear Action.
 Little.
 Magic Column.
 Make Magic.
-"O" Formation.
+"O" anything.
 Pass The Axle.
 Percolate.
-Phantom.
+Phantom anything.
 Plenty.
-Prefer.
+Prefer anyone anything.
 Press direction.
 Ramble.
 Regroup.
@@ -332,7 +329,7 @@ Rotary Spin.
 Rotate.
 Scatter Scoot.
 Shakedown.
-Siamese and.
+Siamese anything.
 Split Square Thru.
 Square Chain The Top.
 Square The Bases.
@@ -349,12 +346,12 @@ Switch The Line.
 Switch To a Interlocked Diamond.
 T-Bone.
 Tally-Ho.
-Tandem.
-Triple Box Formation.
-Triple Column.
-Triple Line.
-Triple Wave.
-Twist And.
+Tandem anything.
+Triple Box anything.
+Triple Column anything.
+Triple Line anything.
+Triple Wave anything.
+Twist And anything.
 Twist The Line.
 Vertical 1/4 Tag the line.
 Vertical 1/2 Tag the line.
@@ -364,8 +361,7 @@ Wheel And anything.
 Wheel Fan Thru.
 With The Flow.
 Zing.
-
-3 By 1 Triangle Formation.
+3 By 1 Triangle anything.
 any Tagging Call Your Neighbor.
 anything & Circle 1/4.
 anything & Circle 1/2.
@@ -387,26 +383,26 @@ Circle 1/4 To A Wave.
 Circle 1/2 To A Wave.
 Circle 3/4 To A Wave.
 Counter.
-Crazy Concept.
+Crazy anything.
 Criss Cross The Shadow.
 Criss Cross Your Neighbor.
 Cross and Wheel.
 Cross Back.
-Cross Concentric Concept.
+Cross Concentric anything.
 Cross Invert The Column 1/4.
 Cross Invert The Column 1/2.
 Cross Invert The Column 3/4.
 Cross Ramble.
 Cross The "K".
 Detour.
-Disconnected Concept.
+Disconnected anyformation anything.
 Dodge anything.
 Drop direction.
 Exchange The Diamond.
 Fascinate.
 File To A Line.
-Funny formation Circulate.
-Funny Concept.
+Funny anyformation Circulate.
+Funny anything.
 Funny Square Thru
 Grand Chain Eight.
 Here Comes The Judge.
@@ -414,30 +410,30 @@ Hocus Pocus.
 Hubs.
 Rims Trade Back.
 Inlet.
-Interlocked 3 By 1 Triangles Formation.
-Interlocked Triangle Formation.
+Interlocked 3 By 1 Triangles anything.
+Interlocked Triangle anything.
 Invert The Column 1/4.
 Invert The Column 1/2.
 Invert The Column 3/4.
 anyone Kick Off.
 Lateral Substitute.
-anyone Like A Ripple Concept.
+anyone Like A Ripple anything.
 Lines anything Thru.
 Little More.
 direction Loop.
-Offset Column.
-Offset Line.
-Offset Wave.
-Once Removed Concept.
+Offset Column anything.
+Offset Line anything.
+Offset Wave anything.
+Once Removed anything.
 Once Removed Diamond.
 Outlet.
-Parallelogram Formation.
+Parallelogram anything
 Peel To A Diamond.
 Perk Up.
 Relocate.
 Relocate The Diamond.
 Reshape The Triangle.
-Reverse Crazy CONCEPT.
+Reverse Crazy anything.
 Reverse Cut The Diamond.
 Reverse Flip The Diamond.
 Reverse Cut The Galaxy.
@@ -448,11 +444,11 @@ Rotary Spin.
 Rotate.
 Sets In Motion.
 Shazam.
-Solid CONCEPT.
+anyone Solid, anything.
 Split Swap Around.
 Split Trade Circulate.
 Stack The Line.
-Stagger Concept.
+Stagger anything.
 Step And anything.
 Stretched Box.
 Stretched Column.
@@ -462,9 +458,100 @@ Swap The Wave.
 Swing Along.
 Truck.
 Turn To A Line.
-Unwrap The formation.
+Unwrap The anyformation.
 Vertical anything.
 Walk Out To A Wave.
 Wheel The Ocean.
 Wheel the Sea.
 Zip Code n.
+1/4 Mix.
+3/4 Mix.
+1/4 The Deucey.
+3/4 The Deucey.
+1/4 Wheel The Ocean.
+1/4 Wheel The Sea.
+3/4 Wheel The Ocean.
+3/4 Wheel The Sea.
+any Tagging call Chain Thru.
+anything Reaction.
+Bias Circulate.
+Big Block anything.
+Breaker anything.
+Catch anything n.
+Checkerboard anything.
+Checkerbox anything.
+Couple Up.
+Cross Chain Reaction.
+Cross Counter.
+Delight.
+Dilemma.
+Drift Apart.
+Ease Off.
+Eight By anything.
+Exchange The Box.
+Exchange The Triangle.
+Expand The Column.
+Explode The Top.
+Fancy.
+Finally anyconcept anything.
+Flare Out To A Line.
+Follow To A Diamond.
+Follow Your Leader.
+Grand Mix.
+Hinge The Lock.
+Lock The Hinge.
+anyone Hop.
+Initially anyconcept anything.
+Interlocked Little.
+Interlocked Plenty.
+Interlocked Scoot Back.
+Jay anything.
+Keep Busy.
+Latch On (fraction).
+Link Up.
+Locker's Choice.
+Mini-Chase.
+Open Up The Column.
+Own The anyone anything By anything.
+Patch (The) anyone.
+Peel Chain Thru.
+Plan Ahead.
+Polly Wally.
+Quick Step.
+Quick anything.
+Rally.
+Reach Out.
+Recoil.
+Release anything.
+Scatter Circulate.
+Scoot The Diamond.
+Single Checkmate.
+Single anything.
+Single File Recycle.
+Single File Recoil.
+Slant anything (By anything).
+Snap The Lock.
+Something New.
+Spin Chain The Line.
+Spin The Pulley.
+Split Phantom Columns anything.
+Split Phantom Lines anything.
+Split Phantom Waves anything.
+Stable anything.
+Stampede.
+Strip The Diamond.
+Strip The Hourglass.
+Swap The Top.
+Swing Chain Thru.
+Team Up.
+The Gamut.
+Touch By fraction By fraction.
+Touch By fraction By anything.
+Trade The Deucey.
+Travel Thru.
+Trip The Set.
+Triple Diamond anything.
+Triple Play.
+Twosome anything.
+Wind The Bobbin.
+Wrap To A anyformation.
